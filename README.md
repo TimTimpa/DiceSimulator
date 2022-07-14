@@ -1,0 +1,2 @@
+# DiceSimulator
+Simulates dice throws.
